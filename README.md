@@ -1,10 +1,10 @@
 KinectTouch
 ==
-Turns any surface into a giant touchpad using kinect
+Convierte cualquier superficie en un touchpad gigante usando kinect
 
 [![kinect - build a TUIO multitouch pad on any surface](http://img.youtube.com/vi/4zXtV66cFDY/0.jpg)](http://www.youtube.com/watch?v=4zXtV66cFDY)
 
-Prerequisites
+Prerrequisitos
 ==
   - OpenNI 1.x, NITE and SensorKinect
     - [Bundled download](https://storage.googleapis.com/google-code-archive-downloads/v2/code.google.com/simple-openni/OpenNI_NITE_Installer-Linux64-0.27.zip) as part of [SimpleOpenNI](https://code.google.com/archive/p/simple-openni/) available
@@ -30,7 +30,7 @@ sudo apt-get install libopencv-dev
 sudo apt-get install cmake
 ```
 
-Building and Running
+Construyendo y Corriendo el proyecto
 ==
 ```bash
 mkdir build
@@ -50,4 +50,7 @@ TODOs
  - Add Kinect 2 support
  - Tracking / filtering of touch points 
 
+Link -->Original
+==
+https://github.com/robbeofficial/KinectTouch
 
